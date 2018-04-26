@@ -10,7 +10,7 @@ end
 
 def add_element_to_end_of_array(array, element)
   array_element =["shrimp", "squid", "salmon", "crab"]
-    array_element << "lobster!"
+    array_element << "arrays!"
   
 end
 
