@@ -10,7 +10,7 @@ end
 
 def add_element_to_end_of_array(array, element)
   seafood =["shrimp", "squid", "salmon", "crab"]
-    seafood.push("lobster")
+    seafood.push("lobster", "clams")
   
 end
 
