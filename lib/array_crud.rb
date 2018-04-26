@@ -28,7 +28,7 @@ end
 
 def remove_element_from_start_of_array(array)
    array =["shrimp", "squid", "salmon", "crab", "arrays!"]
-    wow_array = array.pop
+    wow = array.shift
   
   
   
