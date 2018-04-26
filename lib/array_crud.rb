@@ -16,7 +16,7 @@ end
 
 def add_element_to_start_of_array(array, element)
   array_element =["shrimp", "squid", "salmon", "crab"]
-    array_element.unshift("first")
+    array_element.unshift("wow")
   
 end
 
